@@ -1,4 +1,5 @@
-import math
+import math ## importing math library.
+
 def factorial(n):
     if(n<12):
         result=math.factorial(n)
