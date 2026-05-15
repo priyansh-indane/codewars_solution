@@ -1,2 +1,2 @@
 # codewars_solution
-This repository contains solutions of codewar problems.
+----------This Repository contains solutions of Codewar problems-----------
